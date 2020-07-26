@@ -1,0 +1,72 @@
+body {
+    background-image: linear-gradient(rgba(218, 141, 0, 0.966), rgb(226, 226, 0));
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    font-size: 30px;
+    color: #232323;
+}
+
+.x {
+    margin-top: 30px;
+}
+
+.p {
+    margin-top: 30px;
+    position: absolute;
+    margin-left: -180px;
+}
+
+.b {
+    margin-top: 45px;
+    position: absolute;
+    margin-left: -192px;
+}
+
+.po {
+    margin-top: 80px;
+}
+
+.c {
+    margin-top: 45px;
+    position: absolute;
+    margin-left: -268px;
+}
+
+.pi {
+    margin-top: 100px;
+}
+
+.d {
+    margin-top: 45px;
+    position: absolute;
+    margin-left: -230px;
+}
+
+.pe {
+    margin-top: 100px;
+}
+
+.ce {
+    margin-top: 45px;
+    position: absolute;
+    margin-left: -287px;
+}
+
+.po {
+    margin-top: 100px;
+}
+
+.efe {
+    margin-top: 45px;
+    position: absolute;
+    margin-left: -255px;
+}
+
+.pa {
+    margin-top: 100px;
+}
